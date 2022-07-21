@@ -5,7 +5,7 @@ A chrome extension which supports multiple copy of items from clipboard and sele
 ### Cloning the repository
 Clone the git repository by using the following command in a terminal with `Git` installed
 ```
-git clone https://github.com/vikram3117/copy-pasty
+git clone https://github.com/ashish-kattamuri/CopyPastyChromeExtension
 ```
 ### Installing the extension
 To install the chrome extension to your browser follow the steps:
@@ -49,6 +49,5 @@ All set to use the **copy-pasty-chrome-extension** !!
 
 ## Authors
 
-- [Vikram Pratap Singh](https://github.com/vikram3117)
+- [Ashish Kattamuri](https://github.com/vikram3117)
 - [Aryan Khanna](https://github.com/Netfreak21)
-this is my first web project.
