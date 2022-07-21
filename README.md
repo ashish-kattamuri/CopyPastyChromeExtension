@@ -49,5 +49,5 @@ All set to use the **copy-pasty-chrome-extension** !!
 
 ## Authors
 
-- [Ashish Kattamuri](https://github.com/vikram3117)
+- [Ashish Kattamuri](https://github.com/ashish-kattamuri)
 - [Aryan Khanna](https://github.com/Netfreak21)
